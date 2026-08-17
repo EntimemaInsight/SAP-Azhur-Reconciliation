@@ -1,0 +1,4 @@
+# Runtime intentionally uses only Python's standard library for portable/offline execution.
+# Optional developer tools:
+pytest>=8.0
+ruff>=0.6
